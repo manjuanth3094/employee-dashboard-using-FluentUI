@@ -1,0 +1,16 @@
+.container {
+	display: flex;
+  justify-content: center;
+  align-items: left; 
+  width: 1000px; 
+}
+
+.container > div {
+	background-color: white;
+	margin: 1px;
+  padding:5px;
+  width: 550px;
+  font-size: 50px; 
+  
+}
+
